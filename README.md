@@ -1,6 +1,6 @@
 I created a digital business card using react. <br>
 My main object was to work on my CSS skills and get a better understanding on React. <br>
-Here's the Netlify link: https://relaxed-muffin-a1040b.n <br>
+<b> Here's the Netlify link: https://relaxed-muffin-a1040b.n </b><br>
 Let me know if you have any comment or observation about it. <br>
 Thank you. <br>
 
