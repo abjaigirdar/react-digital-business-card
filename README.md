@@ -1,6 +1,6 @@
-I created a digital business card using react. <br>
-My main object was to work on my CSS skills and get a better understanding on React. <br>
-<b> Here's the Netlify link: https://relaxed-muffin-a1040b.n </b><br>
+I designed a digital business card using the React framework. <br>
+The main objective of this project was to work on my CSS skills and get a better understanding of React. <br>
+<b> Here's the website's link: https://relaxed-muffin-a1040b.netlify.app/ </b><br>
 Let me know if you have any comment or observation about it. <br>
 Thank you. <br>
 
